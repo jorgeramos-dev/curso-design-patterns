@@ -16,17 +16,17 @@ git clone https://github.com/jorgeramos-dev/curso-design-patterns.git
 cd curso-design-patterns
 ```
 
-Acessar o container
+Acessar o container:
 ```sh
 docker-compose exec app bash
 ```
 
 
-Instalar as dependências do projeto
+Instalar as dependências do projeto:
 ```sh
 composer install
 ```
 
 
-Acessar o projeto
+Acessar o projeto:
 [http://localhost:8989](http://localhost:8989)
